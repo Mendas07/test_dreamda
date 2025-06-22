@@ -1,0 +1,24 @@
+# Ambientes virtuais
+.venv/
+env/
+__pycache__/
+
+# Checkpoints e pesos
+*.pth
+*.pt
+
+# Arquivos temporários / cache
+*.log
+*.tmp
+*.swp
+
+# Dados
+datasets/
+saved_models/
+results/
+
+# Jupyter/IPython
+.ipynb_checkpoints/
+
+# VSCode configs
+.vscode/
