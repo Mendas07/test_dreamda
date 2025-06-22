@@ -81,6 +81,7 @@ Esse script gera:
 | `train_resnet50.py` | Treina a ResNet50 com pesos do ImageNet em um dataset escolhido |
 | `save_results_only.py` | Salva manualmente os resultados de acurácia (modo offline) |
 | `analyze_results.py` | Lê os `.csv` de resultados e gera estatísticas + gráfico |
+| `clean_images_data.py` | Apaga automaticamente arquivos inválidos, corrompidos ou ocultos (ex: ._*.jpg) |
 
 ---
 
